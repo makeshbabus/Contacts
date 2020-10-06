@@ -1,6 +1,6 @@
 # Contacts
 Demo
-
+```
 Checkout the repository
 
 In Both FrontEnd and BackEnd move to directory and run below command
@@ -25,3 +25,4 @@ Below are the functionalities are  completed.
 10.	Design JSON effectively to maintain the data like Arrays, Objects and more 
 11.	Add Filter based on Location and search based on Name. 
 12.	Using Material-UI for design is added advantage.
+```
