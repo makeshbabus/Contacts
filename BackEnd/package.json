@@ -1,0 +1,19 @@
+{
+  "name": "servercontacts",
+  "version": "1.0.0",
+  "description": "KGISL Demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.3"
+  },
+  "license": "ISC"
+}
