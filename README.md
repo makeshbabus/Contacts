@@ -9,6 +9,9 @@ npm install
 FrontEnd> npm start
 BackEnd> npm run dev or npm start
 
+Import the below file in Postman to access rest APIs
+makesh.postman_collection.json
+
 Below are the functionalities are  completed.
 1.	Write an API in Express JS to list, create, update and delete detail. 
 2.	API data would be viewed in Postman or other REST client tools. 
